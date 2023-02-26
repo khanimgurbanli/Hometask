@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0210: Üst düzey deyimlere dönüştür
+csharp_style_prefer_top_level_statements = true
