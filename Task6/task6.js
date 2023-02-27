@@ -7,4 +7,7 @@ while(number!=0)
     a=number%10
     number=(number-a)/10
 }
-console.log(i)
+if(i==3)
+    {console.log(true)}
+else
+    {console.log(false)}
